@@ -12,7 +12,7 @@
 
 ##### Use
 
-- [Android APK](https://github.com/PraveenNale/bleAds/blob/main/apk/bleAds.apk)
+- [Android APK](https://github.com/PraveenNale/bleAds/blob/master/apk/bleAds.apk)
 <!---
 - [BLE Advertiments on web (Needs Updated Desktop Chrome for Linux, Mac or Windows)](https://PraveenNale.github.io/bleAds)
 
