@@ -1,0 +1,7 @@
+{
+  "name": "bleAds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
